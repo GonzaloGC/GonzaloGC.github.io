@@ -1,0 +1,62 @@
+:root {
+  /* COLORS */
+  /* Primary */
+  --Dark-cyan: hsl(158, 36%, 37%);
+  --Cream: hsl(30, 38%, 92%);
+  /* Neutral */
+  --Very-dark-blue: hsl(212, 21%, 14%);
+  --Dark-grayish-blue: hsl(228, 12%, 48%);
+  --White: hsl(0, 0%, 100%);
+  --font-size-paragraph: 14px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Monserrat", sans-serif;
+  font-size: 14px;
+  background-color: var(--Cream);
+}
+
+.card {
+    /* border: 0.5px solid black; */
+    background-color: var(--White);
+    border-radius: 10px;
+    overflow: hidden;
+    width: 344px;
+    height: 612px;
+    margin: 20px auto;
+}
+.card__section-1__img{
+    width: 100%;
+}
+
+.card__section-2{
+    padding: 20px;
+}
+
+.card__section-2__product-type{
+    color: var(--Dark-grayish-blue);
+    letter-spacing: 3px;    
+}
+
+.card__section-2__title{
+    font-family: 'Fraunces', serif;
+}
+
+
+
+
+/* Footer */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
