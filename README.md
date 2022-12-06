@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-desktop.png)
+!(./images/screenshot-desktop.png)
 
 ### Links
 
-- Solution URL:(https://github.com/GonzaloGC/GonzaloGC.github.io)
-- Live Site URL:(https://gonzalogc.github.io/)
+- Solution URL:<https://github.com/GonzaloGC/GonzaloGC.github.io>)
+- Live Site URL:(<https://gonzalogc.github.io/>)
 
 ## My process
 
@@ -43,10 +43,10 @@ Users should be able to:
 
 ### Useful resources
 
-- (https://developer.mozilla.org/es/docs/Web/CSS)
-- (https://lenguajecss.com/css/maquetacion-y-colocacion/grid-css/)
+- <https://developer.mozilla.org/es/docs/Web/CSS>
+- <<https://lenguajecss.com/css/maquetacion-y-colocacion/grid-css/>
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/GonzaloGC)
-- Twitter - (https://www.twitter.com/gonzaloelias)
+- Frontend Mentor - <https://www.frontendmentor.io/profile/GonzaloGC>
+- Twitter - <https://www.twitter.com/gonzaloelias>
