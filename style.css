@@ -87,16 +87,17 @@ body {
     align-items: center;
     justify-content: center;
     gap: 12px;
+    color: var(--White);
+    font-weight: 700;
+    font-size: 1.1em;
+    color: var(--Cream);
+}
+.card__section-2__button__img{
+    width: 15px;
 }
 .card__section-2__button:hover{
     background-color: var(--very-dark-green);
     cursor: pointer;
-}
-.card__section-2__button__text{
-    text-decoration: none;
-    color: var(--Cream);
-    font-size: 1.1em;
-    font-weight: 700;
 }
 
 /* Footer */
